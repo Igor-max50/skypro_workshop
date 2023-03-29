@@ -417,3 +417,5 @@ poetry.toml
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,visualstudiocode,test
 .vscode/settings.json
+
+Faker==18.3.1
